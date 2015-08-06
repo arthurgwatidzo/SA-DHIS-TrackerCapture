@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -41,3 +42,33 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+#Eclipse
+.project
+.classpath
+.settings
+
+#IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+#Ant
+build.xml
+local.properties
+proguard.cfg
+#Gradle
+.gradle
+build
+
+#OSX
+.DS_Store
+
+#Windows
+*.db
+
+#Android
+*.apk
+>>>>>>> cc4452c95e4b6ec85fa0a593ea646db8fa17b714
